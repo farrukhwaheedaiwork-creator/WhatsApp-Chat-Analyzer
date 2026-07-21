@@ -16,3 +16,6 @@ An end-to-end data science project that analyzes WhatsApp chat exports. The app 
 - **WordCloud** – Word cloud generation
 - **NLTK** – Sentiment analysis
 - **Streamlit** – Interactive web app
+
+## Live Demo
+https://whatsapp-chat-analyzer-dcm5jjkmuv6rg3zdqpuwgh.streamlit.app/
